@@ -100,10 +100,3 @@ The script prints:
 ## ✅ License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## 🙋‍♂️ Author
-
-**Justus**
-If you use or extend this code, feel free to credit or cite the repo. Contributions are welcome!

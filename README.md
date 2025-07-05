@@ -4,7 +4,7 @@ This repository contains an R-based pipeline for analyzing the realized volatili
 
 ---
 
-## 📊 Objectives
+## Objectives
 
 - Retrieve and process **S&P 500 daily price data**
 - Calculate **daily returns** and **realized volatility** (fixed-time and rolling-window)
@@ -14,7 +14,7 @@ This repository contains an R-based pipeline for analyzing the realized volatili
 
 ---
 
-## 🛠️ Dependencies
+## Dependencies
 
 Make sure the following R packages are installed:
 
@@ -27,7 +27,7 @@ install.packages(c(
 
 ---
 
-## 🔑 Setup
+## Setup
 
 1. Get a [FRED API key](https://fred.stlouisfed.org/docs/api/api_key.html)
 2. Set your API key in the script:
@@ -38,7 +38,7 @@ install.packages(c(
 
 ---
 
-## 🧪 Methodology Overview
+## Methodology Overview
 
 ### 1. **Data Collection**
 
@@ -68,7 +68,7 @@ install.packages(c(
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 The analysis includes plots of:
 
@@ -79,7 +79,7 @@ The analysis includes plots of:
 
 ---
 
-## 📂 Output
+## Output
 
 The script prints:
 
@@ -90,7 +90,7 @@ The script prints:
 
 ---
 
-## 📚 References
+## References
 
 * Engle, R. F., Ghysels, E., & Sohn, B. (2013). *Stock Market Volatility and Macroeconomic Fundamentals*. Review of Economics and Statistics.
 * [FRED API Documentation](https://fred.stlouisfed.org/docs/api/fred/)
